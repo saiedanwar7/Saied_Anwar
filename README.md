@@ -3,12 +3,12 @@
 <!--
 **Saied979/saied979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on ... Python Project
-- 🌱 I’m currently learning ...Python
-- 👯 I’m looking to collaborate on ... Python
-- 🤔 I’m looking for help with ... Python Learning
+- 🔭 I’m currently working on ... 
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ... 
+- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ... saiedanwar844@gmail.com
+- 📫 How to reach me: ... saiedanwar850@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am half Finish!!!
 
